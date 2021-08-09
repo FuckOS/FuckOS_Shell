@@ -73,7 +73,7 @@ python main.py
 
 ## 许可证
 
-MIT©VtuberMusic
+MIT©FuckOS
 
 
 
